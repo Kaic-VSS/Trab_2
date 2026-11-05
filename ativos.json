@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nome": "Notebook-Kaic",
+        "tipo": "notebook",
+        "setor": "Virus",
+        "responsavel": "Lucas",
+        "vulnerabilidade": "Erro de IP"
+    },
+    {
+        "id": 2,
+        "nome": "Impre-Kaic",
+        "tipo": "impressora",
+        "setor": "manutenção",
+        "responsavel": "Ronaldo",
+        "vulnerabilidade": "Erro na quantia de tinta"
+    }
+]
