@@ -1,0 +1,9 @@
+services:
+  crud:
+    build: .
+    stdin_open: true
+    tty: true
+    volumes:
+      - dados_ativos:/app/data
+volumes:
+  dados_ativos:
